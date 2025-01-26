@@ -15,4 +15,4 @@
 This dashboard provides a real-time snapshot of temperature and humidity trends across various locations worldwide. It offers a comprehensive view of climate patterns, enabling users to monitor and analyze environmental conditions.This real-time dashboard provides a valuable resource for understanding and monitoring global temperature and humidity patterns. By leveraging this data, individuals and organizations can make informed decisions, mitigate environmental risks, and adapt to the changing climate.
 
 # OUTPUT OF THE TASK
-![Image](https://github.com/user-attachments/assets/3917d2ba-07cf-404e-81f5-e6b0f9a44144)
+![Image](https://github.com/user-attachments/assets/4d7de2b5-6509-4f64-aa44-35ef0eb2b582)
